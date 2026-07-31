@@ -10,6 +10,16 @@ A startup-style full-stack IoT attendance platform built for final-year demonstr
 - Database: Supabase PostgreSQL with RLS, indexes, triggers, and sample seed rows
 
 ## Folder Structure
+## Description
+Added the attendance management feature.
+
+## Changes Made
+- Added attendance page
+- Updated navigation
+- Fixed UI issues
+
+## Testing
+Tested successfully in Chrome.
 
 ```text
 project-root/
