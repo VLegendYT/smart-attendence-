@@ -55,6 +55,18 @@ cd frontend
 npm install
 npm run dev
 ```
+Outcome
+
+### The Smart Attendance System successfully integrates IoT hardware, face recognition, a web-based dashboard, and cloud database services into a single attendance management platform.
+
+```bash
+Automated attendance using ESP32-CAM and face recognition.
+Real-time attendance records stored securely in Supabase.
+Dashboard provides attendance analytics and device status.
+Prevents duplicate attendance entries.
+Reduces manual attendance work and improves accuracy.
+Provides a scalable platform for future IoT and AI-based enhancements.
+```
 
 ## Important Notes
 
